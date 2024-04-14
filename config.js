@@ -12,7 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["94763698137", "Black Hunter", true],
+  ["94763698137", "Asiyah", true],
   [''], 
   [''] 
 ]
